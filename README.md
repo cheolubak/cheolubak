@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<div style="text-align:center">
+<div align="center">
 <h1 style="text-align: center: font-size: 48px;font-weight: 700; color: #f76707">Tech</h1>
 
 <h2 style="color: #868e96">
