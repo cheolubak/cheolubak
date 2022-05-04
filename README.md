@@ -1,6 +1,6 @@
 <h1 style="text-align:center;font-size: 100px;font-weight: 700; color: #0b7285;">Cheolu.B</h1>
 
-<p style="text-align:center">Welcome 👋🏻</p>
+<p align="center">Welcome 👋🏻</p>
 <br/>
 <br/>
 <br/>
