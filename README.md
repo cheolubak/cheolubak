@@ -9,9 +9,25 @@
 <br/>
 
 <div align="center">
-  <h1 align="center">Tech</h1>
+  <h2>Experiences</h2>
+  <ul>
+    <li><b>버킷스토어</b> (2024.09 ~ 2026.02) - 프론트엔드 파트장</li>
+    <li><b>밸류맵</b> (2023.01 ~ 2024.06) - 프론트엔드 파트장</li>
+    <li><b>세상을바꾸는시간15분</b> (2020.11 ~ 2022.11) - 풀스택 개발자</li>
+    <li><b>아이엠에이치씨</b> (2018.05 ~ 2020.04) - 풀스택 개발자</li>
+    <li><b>맵씨닷컴</b> (2015.11 ~ 2018.02) - 풀스택 개발자</li>
+    <li><b>디지엔터테인먼트</b> (2012.10 ~ 2015.10) - 윈도우 프로그램 개발</li>
+  </ul>
+</div>
 
-  <h2 style="color: #868e96">Skills</h2>
+<br/>
+<br/>
+
+<div align="center">
+  <h2>Skills</h2>
+  
+  <h3 align="center">Tech</h1>
+
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -39,7 +55,7 @@
   <br/>
   <br/>
   
-  <h1 align="center">Tools</h1>
+  <h3 align="center">Tools</h1>
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white"/>
